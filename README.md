@@ -6,6 +6,6 @@ Prodi: Teknik Informatika
 ```
 # Tugas Praktikum 1  "SQL DDL (Data Definition Language)"
 
-untuk script beserta langkah langkahnya dapat anda lihat di file 'LAPORAN PRAKTIKUM BASIS DATA'
+untuk script beserta langkah langkahnya dapat anda lihat di file `LAPORAN PRAKTIKUM BASIS DATA`
 
 
