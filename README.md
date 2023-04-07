@@ -1,4 +1,4 @@
-# praktikum1_basis_data
+# Praktikum1_basis_data
 ```
 Nama : Ahmad Hapizhudin
 NIM  : 312210370
