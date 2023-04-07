@@ -4,6 +4,8 @@ Nama : Ahmad Hapizhudin
 NIM  : 312210370
 Prodi: Teknik Informatika
 ```
-# Tugas Praktikum 1
+# Tugas Praktikum 1  "SQL DDL (Data Definition Language)"
 
-# SQL DDL (Data Definition Language)
+untuk script beserta langkah langkahnya dapat anda lihat di file 
+
+
